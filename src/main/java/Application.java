@@ -10,6 +10,7 @@ public class Application {
     public static void main(String[] args) {
         System.out.println("hello git");
         System.out.println("my is xiaohong update");
+        System.out.println("my is xiaoming update ");
     }
 
 }
