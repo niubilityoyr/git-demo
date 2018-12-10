@@ -9,5 +9,6 @@ public class DevClass {
     public static void main(String[] args) {
         System.out.println("my is dev branch");
         System.out.println("dev update");
+        System.out.println("test update");
     }
 }
